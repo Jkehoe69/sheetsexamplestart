@@ -15,10 +15,11 @@
     "body-parser": "~1.13.2",
     "express": "^4.13.4",
     "express-handlebars": "^3.0.0",
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^21.3.0",
     "morgan": "^1.7.0",
-    "sequelize": "^3.21.0",
     "mysql": "^2.5.4",
-    "googleapis": "^21.3.0"
+    "sequelize": "^3.21.0"
   },
   "devDependencies": {
     "nodemon": "^1.9.1"
